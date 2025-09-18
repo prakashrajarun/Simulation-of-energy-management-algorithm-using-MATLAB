@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecf1284f-049a-44b5-ab41-f29046921bf0" /># Simulation-of-energy-management-algorithm-using-MATLAB
+
 ## AIM
 To Simulate energy management algorithm using MATLAB
 
